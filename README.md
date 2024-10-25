@@ -12,7 +12,7 @@
 
 2) [Ioannis Chamodrakas](http://users.uoa.gr/~ihamod/)
 
-for the University of Athens, Department of Informatics and Telecommunications (2023-2024) 
+for the University of Athens, Department of Informatics and Telecommunications (2023-2024) and Graded: 10/10
 
 ---
 
