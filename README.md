@@ -1,11 +1,19 @@
 # Software Development for hard Algorithmic Problems
-## 
+##  - 
 
 ##### Project implemented by: 
 
 1) Georgios Zorpidis
 
 2) [Konstantinos Fragkos](https://github.com/Konstantinos72002)
+
+##### Overseen by: 
+
+1) (Ioannis Emiris)[https://cgi.di.uoa.gr/~emiris/]
+
+2) (Ioannis Chamodrakas)[http://users.uoa.gr/~ihamod/]
+
+for the University of Athens, Department of Informatics and Telecommunications (2023-2024) 
 
 ---
 
